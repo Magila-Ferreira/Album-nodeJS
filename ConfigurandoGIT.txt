@@ -1,0 +1,14 @@
+Passo a Passo para criar um repositório GIT e integrá-lo ao VS Code:
+
+1. Criar projeto/repositório
+2. Criar uma pasta VAZIA e abri-la no VS Code
+3. Ir no repositório GIT e copiar endereço HTTPS
+4. Inicializar o Terminal do VS Code
+5. Inserir o comando:
+git clone https://github.com/Magila-Ferreira/CSS-Layout.git .
+(OBS: Substituir o endereço HTTPS pelo endereço copiado no seu repositório GIT - passo 3).
+
+6. Faça uma alteração TESTE e dê um commit:
+// git add . 
+// git commit -m "TESTE" 
+// git push origin main
